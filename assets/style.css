@@ -1,0 +1,11 @@
+div.sidebar {
+    background: linear-gradient(-135deg, #74ebd5, #9face6);
+}
+
+.brand-link {
+    background-color:  #74ebd5;
+}
+
+nav.main-header {
+    background-color: #ffff;
+}
